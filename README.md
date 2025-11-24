@@ -26,7 +26,7 @@ Para executar o pipeline ETL, siga os passos abaixo:
 
 1. Clone este repositório:
    ```bash
-   git clone <[URL_DO_SEU_REPOSITORIO](https://github.com/carloseduardobertucio/etl-loteriafederal)>
+   git clone <[git@github.com:carloseduardobertucio/etl-loteriafederal.git]>
    cd etl-loteriafederal
    ```
 
