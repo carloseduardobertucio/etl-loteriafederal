@@ -1,6 +1,6 @@
-# Desafio Data Engineer Pleno - Pier
+# ETL com dados da Loteria Federal
 
-Este repositório contém a solução para o desafio de Data Engineer Pleno da Pier. O objetivo é construir um pipeline ETL (Extração, Transformação e Carga) para processar dados de sorteios da Loteria Federal, armazenados em um arquivo JSON, e carregá-los em um banco de dados SQLite.
+Este repositório é um ETL com os dados da Loteria Federal onde o objetivo é construir um pipeline ETL (Extração, Transformação e Carga) para processar dados de sorteios da Loteria Federal, armazenados em um arquivo JSON, e carregá-los em um banco de dados SQLite.
 
 ## Sumário
 - [Estrutura do Projeto](#estrutura-do-projeto)
