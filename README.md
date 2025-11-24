@@ -26,8 +26,8 @@ Para executar o pipeline ETL, siga os passos abaixo:
 
 1. Clone este repositório:
    ```bash
-   git clone <URL_DO_SEU_REPOSITORIO>
-   cd case-pierdigital
+   git clone <[URL_DO_SEU_REPOSITORIO](https://github.com/carloseduardobertucio/etl-loteriafederal)>
+   cd etl-loteriafederal
    ```
 
 2. Crie e ative um ambiente virtual (recomendado):
